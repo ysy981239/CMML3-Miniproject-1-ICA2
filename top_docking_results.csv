@@ -1,0 +1,421 @@
+Complex_Name,Confidence_Score,Protein_Path,Ligand_Path
+B7_1_formaldehyde,-1.39,/root/miniproject/DiffDock/proteinPDB/B7.pdb,/root/miniproject/results_batch/B7_1_formaldehyde/rank10_confidence-1.39.sdf
+B3_53_Pyridoxal phosphate,-1.39,/root/miniproject/DiffDock/proteinPDB/B3.pdb,/root/miniproject/results_batch/B3_53_Pyridoxal phosphate/rank10_confidence-1.39.sdf
+B6_53_Pyridoxal phosphate,-1.46,/root/miniproject/DiffDock/proteinPDB/B6.pdb,/root/miniproject/results_batch/B6_53_Pyridoxal phosphate/rank10_confidence-1.46.sdf
+B2_53_Pyridoxal phosphate,-1.63,/root/miniproject/DiffDock/proteinPDB/B2.pdb,/root/miniproject/results_batch/B2_53_Pyridoxal phosphate/rank10_confidence-1.63.sdf
+B5_17_nonanal,-1.75,/root/miniproject/DiffDock/proteinPDB/B5.pdb,/root/miniproject/results_batch/B5_17_nonanal/rank10_confidence-1.75.sdf
+B1_44_glutarate semialdehyde,-2.03,/root/miniproject/DiffDock/proteinPDB/B1.pdb,/root/miniproject/results_batch/B1_44_glutarate semialdehyde/rank10_confidence-2.03.sdf
+B4_2_acetaldehyde,-2.04,/root/miniproject/DiffDock/proteinPDB/B4.pdb,/root/miniproject/results_batch/B4_2_acetaldehyde/rank10_confidence-2.04.sdf
+B4_1_formaldehyde,-2.13,/root/miniproject/DiffDock/proteinPDB/B4.pdb,/root/miniproject/results_batch/B4_1_formaldehyde/rank10_confidence-2.13.sdf
+B7_55_Ethanol,-2.21,/root/miniproject/DiffDock/proteinPDB/B7.pdb,/root/miniproject/results_batch/B7_55_Ethanol/rank10_confidence-2.21.sdf
+B1_2_acetaldehyde,-2.21,/root/miniproject/DiffDock/proteinPDB/B1.pdb,/root/miniproject/results_batch/B1_2_acetaldehyde/rank10_confidence-2.21.sdf
+B2_12_prop-2-ynal,-2.25,/root/miniproject/DiffDock/proteinPDB/B2.pdb,/root/miniproject/results_batch/B2_12_prop-2-ynal/rank10_confidence-2.25.sdf
+B3_44_glutarate semialdehyde,-2.3,/root/miniproject/DiffDock/proteinPDB/B3.pdb,/root/miniproject/results_batch/B3_44_glutarate semialdehyde/rank10_confidence-2.30.sdf
+B4_25_hexadecanal,-2.31,/root/miniproject/DiffDock/proteinPDB/B4.pdb,/root/miniproject/results_batch/B4_25_hexadecanal/rank10_confidence-2.31.sdf
+B4_6_amylaldehyde,-2.34,/root/miniproject/DiffDock/proteinPDB/B4.pdb,/root/miniproject/results_batch/B4_6_amylaldehyde/rank10_confidence-2.34.sdf
+B4_32_9-cis-Retinal,-2.46,/root/miniproject/DiffDock/proteinPDB/B4.pdb,/root/miniproject/results_batch/B4_32_9-cis-Retinal/rank10_confidence-2.46.sdf
+B4_8_hexanal,-2.54,/root/miniproject/DiffDock/proteinPDB/B4.pdb,/root/miniproject/results_batch/B4_8_hexanal/rank10_confidence-2.54.sdf
+B4_17_nonanal,-2.54,/root/miniproject/DiffDock/proteinPDB/B4.pdb,/root/miniproject/results_batch/B4_17_nonanal/rank10_confidence-2.54.sdf
+B3_47_methylmalonate semialdehyde,-2.62,/root/miniproject/DiffDock/proteinPDB/B3.pdb,/root/miniproject/results_batch/B3_47_methylmalonate semialdehyde/rank10_confidence-2.62.sdf
+B4_18_decanal,-2.71,/root/miniproject/DiffDock/proteinPDB/B4.pdb,/root/miniproject/results_batch/B4_18_decanal/rank10_confidence-2.71.sdf
+B6_47_methylmalonate semialdehyde,-2.73,/root/miniproject/DiffDock/proteinPDB/B6.pdb,/root/miniproject/results_batch/B6_47_methylmalonate semialdehyde/rank10_confidence-2.73.sdf
+B2_9_2-hydroxypropionaldehyde,-2.76,/root/miniproject/DiffDock/proteinPDB/B2.pdb,/root/miniproject/results_batch/B2_9_2-hydroxypropionaldehyde/rank10_confidence-2.76.sdf
+B4_15_heptanal,-2.82,/root/miniproject/DiffDock/proteinPDB/B4.pdb,/root/miniproject/results_batch/B4_15_heptanal/rank10_confidence-2.82.sdf
+B4_55_Ethanol,-2.86,/root/miniproject/DiffDock/proteinPDB/B4.pdb,/root/miniproject/results_batch/B4_55_Ethanol/rank10_confidence-2.86.sdf
+B5_47_methylmalonate semialdehyde,-2.87,/root/miniproject/DiffDock/proteinPDB/B5.pdb,/root/miniproject/results_batch/B5_47_methylmalonate semialdehyde/rank10_confidence-2.87.sdf
+"B4_31_(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal",-2.88,/root/miniproject/DiffDock/proteinPDB/B4.pdb,"/root/miniproject/results_batch/B4_31_(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal/rank10_confidence-2.88.sdf"
+B2_29_Salicylaldehyde,-2.88,/root/miniproject/DiffDock/proteinPDB/B2.pdb,/root/miniproject/results_batch/B2_29_Salicylaldehyde/rank10_confidence-2.88.sdf
+B4_12_prop-2-ynal,-2.94,/root/miniproject/DiffDock/proteinPDB/B4.pdb,/root/miniproject/results_batch/B4_12_prop-2-ynal/rank10_confidence-2.94.sdf
+B6_2_acetaldehyde,-2.95,/root/miniproject/DiffDock/proteinPDB/B6.pdb,/root/miniproject/results_batch/B6_2_acetaldehyde/rank10_confidence-2.95.sdf
+B5_20_Citral,-2.96,/root/miniproject/DiffDock/proteinPDB/B5.pdb,/root/miniproject/results_batch/B5_20_Citral/rank10_confidence-2.96.sdf
+B4_37_thiobenzaldehyde,-3.09,/root/miniproject/DiffDock/proteinPDB/B4.pdb,/root/miniproject/results_batch/B4_37_thiobenzaldehyde/rank10_confidence-3.09.sdf
+B4_3_propylaldehyde,-3.1,/root/miniproject/DiffDock/proteinPDB/B4.pdb,/root/miniproject/results_batch/B4_3_propylaldehyde/rank10_confidence-3.10.sdf
+B4_19_dodecanal,-3.12,/root/miniproject/DiffDock/proteinPDB/B4.pdb,/root/miniproject/results_batch/B4_19_dodecanal/rank10_confidence-3.12.sdf
+B2_19_dodecanal,-3.14,/root/miniproject/DiffDock/proteinPDB/B2.pdb,/root/miniproject/results_batch/B2_19_dodecanal/rank10_confidence-3.14.sdf
+B4_24_Tetradecanal,-3.15,/root/miniproject/DiffDock/proteinPDB/B4.pdb,/root/miniproject/results_batch/B4_24_Tetradecanal/rank10_confidence-3.15.sdf
+B4_16_octanaldehyde,-3.16,/root/miniproject/DiffDock/proteinPDB/B4.pdb,/root/miniproject/results_batch/B4_16_octanaldehyde/rank10_confidence-3.16.sdf
+B4_39_4-nitrobenzaldehyde,-3.16,/root/miniproject/DiffDock/proteinPDB/B4.pdb,/root/miniproject/results_batch/B4_39_4-nitrobenzaldehyde/rank10_confidence-3.16.sdf
+B2_17_nonanal,-3.18,/root/miniproject/DiffDock/proteinPDB/B2.pdb,/root/miniproject/results_batch/B2_17_nonanal/rank10_confidence-3.18.sdf
+B7_4_malonaldehyde,-3.21,/root/miniproject/DiffDock/proteinPDB/B7.pdb,/root/miniproject/results_batch/B7_4_malonaldehyde/rank10_confidence-3.21.sdf
+"B3_38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",-3.21,/root/miniproject/DiffDock/proteinPDB/B3.pdb,"/root/miniproject/results_batch/B3_38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde/rank10_confidence-3.21.sdf"
+B6_40_Furan-2-carbaldehyde,-3.21,/root/miniproject/DiffDock/proteinPDB/B6.pdb,/root/miniproject/results_batch/B6_40_Furan-2-carbaldehyde/rank10_confidence-3.21.sdf
+B7_18_decanal,-3.24,/root/miniproject/DiffDock/proteinPDB/B7.pdb,/root/miniproject/results_batch/B7_18_decanal/rank10_confidence-3.24.sdf
+B4_22_trans-2-Octenal,-3.28,/root/miniproject/DiffDock/proteinPDB/B4.pdb,/root/miniproject/results_batch/B4_22_trans-2-Octenal/rank10_confidence-3.28.sdf
+B5_36_3-(4-Isopropylphenyl)-2-methylpropanal,-3.28,/root/miniproject/DiffDock/proteinPDB/B5.pdb,/root/miniproject/results_batch/B5_36_3-(4-Isopropylphenyl)-2-methylpropanal/rank10_confidence-3.28.sdf
+B1_6_amylaldehyde,-3.33,/root/miniproject/DiffDock/proteinPDB/B1.pdb,/root/miniproject/results_batch/B1_6_amylaldehyde/rank10_confidence-3.33.sdf
+B7_25_hexadecanal,-3.34,/root/miniproject/DiffDock/proteinPDB/B7.pdb,/root/miniproject/results_batch/B7_25_hexadecanal/rank10_confidence-3.34.sdf
+B4_5_butyraldehyde,-3.37,/root/miniproject/DiffDock/proteinPDB/B4.pdb,/root/miniproject/results_batch/B4_5_butyraldehyde/rank10_confidence-3.37.sdf
+B4_44_glutarate semialdehyde,-3.39,/root/miniproject/DiffDock/proteinPDB/B4.pdb,/root/miniproject/results_batch/B4_44_glutarate semialdehyde/rank10_confidence-3.39.sdf
+B5_9_2-hydroxypropionaldehyde,-3.42,/root/miniproject/DiffDock/proteinPDB/B5.pdb,/root/miniproject/results_batch/B5_9_2-hydroxypropionaldehyde/rank10_confidence-3.42.sdf
+B1_50_10-formyltetrahydrofolate,-3.43,/root/miniproject/DiffDock/proteinPDB/B1.pdb,/root/miniproject/results_batch/B1_50_10-formyltetrahydrofolate/rank10_confidence-3.43.sdf
+B4_33_11-cis-Retinol,-3.43,/root/miniproject/DiffDock/proteinPDB/B4.pdb,/root/miniproject/results_batch/B4_33_11-cis-Retinol/rank10_confidence-3.43.sdf
+B1_56_S-hydroxy-methylglutathione,-3.43,/root/miniproject/DiffDock/proteinPDB/B1.pdb,/root/miniproject/results_batch/B1_56_S-hydroxy-methylglutathione/rank10_confidence-3.43.sdf
+B7_19_dodecanal,-3.44,/root/miniproject/DiffDock/proteinPDB/B7.pdb,/root/miniproject/results_batch/B7_19_dodecanal/rank10_confidence-3.44.sdf
+"B4_38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",-3.44,/root/miniproject/DiffDock/proteinPDB/B4.pdb,"/root/miniproject/results_batch/B4_38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde/rank10_confidence-3.44.sdf"
+B2_33_11-cis-Retinol,-3.47,/root/miniproject/DiffDock/proteinPDB/B2.pdb,/root/miniproject/results_batch/B2_33_11-cis-Retinol/rank10_confidence-3.47.sdf
+B4_36_3-(4-Isopropylphenyl)-2-methylpropanal,-3.47,/root/miniproject/DiffDock/proteinPDB/B4.pdb,/root/miniproject/results_batch/B4_36_3-(4-Isopropylphenyl)-2-methylpropanal/rank10_confidence-3.47.sdf
+B2_46_Succinic semialdehyde,-3.5,/root/miniproject/DiffDock/proteinPDB/B2.pdb,/root/miniproject/results_batch/B2_46_Succinic semialdehyde/rank10_confidence-3.50.sdf
+B3_14_trans-2-Hexenal,-3.6,/root/miniproject/DiffDock/proteinPDB/B3.pdb,/root/miniproject/results_batch/B3_14_trans-2-Hexenal/rank10_confidence-3.60.sdf
+B2_58_S-(4-oxobutan-2-yl)glutathione,-3.61,/root/miniproject/DiffDock/proteinPDB/B2.pdb,/root/miniproject/results_batch/B2_58_S-(4-oxobutan-2-yl)glutathione/rank10_confidence-3.61.sdf
+B3_58_S-(4-oxobutan-2-yl)glutathione,-3.63,/root/miniproject/DiffDock/proteinPDB/B3.pdb,/root/miniproject/results_batch/B3_58_S-(4-oxobutan-2-yl)glutathione/rank10_confidence-3.63.sdf
+B2_20_Citral,-3.63,/root/miniproject/DiffDock/proteinPDB/B2.pdb,/root/miniproject/results_batch/B2_20_Citral/rank10_confidence-3.63.sdf
+"B7_31_(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal",-3.64,/root/miniproject/DiffDock/proteinPDB/B7.pdb,"/root/miniproject/results_batch/B7_31_(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal/rank10_confidence-3.64.sdf"
+B5_32_9-cis-Retinal,-3.64,/root/miniproject/DiffDock/proteinPDB/B5.pdb,/root/miniproject/results_batch/B5_32_9-cis-Retinal/rank10_confidence-3.64.sdf
+B7_45_adipate semialdehyde,-3.65,/root/miniproject/DiffDock/proteinPDB/B7.pdb,/root/miniproject/results_batch/B7_45_adipate semialdehyde/rank10_confidence-3.65.sdf
+B3_18_decanal,-3.66,/root/miniproject/DiffDock/proteinPDB/B3.pdb,/root/miniproject/results_batch/B3_18_decanal/rank10_confidence-3.66.sdf
+B1_53_Pyridoxal phosphate,-3.71,/root/miniproject/DiffDock/proteinPDB/B1.pdb,/root/miniproject/results_batch/B1_53_Pyridoxal phosphate/rank10_confidence-3.71.sdf
+B4_59_4-Hydroxynonenal_glutathione,-3.72,/root/miniproject/DiffDock/proteinPDB/B4.pdb,/root/miniproject/results_batch/B4_59_4-Hydroxynonenal_glutathione/rank10_confidence-3.72.sdf
+B6_57_S-3-oxopropylglutathione,-3.72,/root/miniproject/DiffDock/proteinPDB/B6.pdb,/root/miniproject/results_batch/B6_57_S-3-oxopropylglutathione/rank10_confidence-3.72.sdf
+B1_49_2-Aminomuconic semialdehyde,-3.73,/root/miniproject/DiffDock/proteinPDB/B1.pdb,/root/miniproject/results_batch/B1_49_2-Aminomuconic semialdehyde/rank10_confidence-3.73.sdf
+B4_26_trans-2-hexadecenal,-3.74,/root/miniproject/DiffDock/proteinPDB/B4.pdb,/root/miniproject/results_batch/B4_26_trans-2-hexadecenal/rank10_confidence-3.74.sdf
+"B2_31_(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal",-3.75,/root/miniproject/DiffDock/proteinPDB/B2.pdb,"/root/miniproject/results_batch/B2_31_(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal/rank10_confidence-3.75.sdf"
+B7_9_2-hydroxypropionaldehyde,-3.75,/root/miniproject/DiffDock/proteinPDB/B7.pdb,/root/miniproject/results_batch/B7_9_2-hydroxypropionaldehyde/rank10_confidence-3.75.sdf
+B6_48_alpha-aminoadipate semialdehyde,-3.78,/root/miniproject/DiffDock/proteinPDB/B6.pdb,/root/miniproject/results_batch/B6_48_alpha-aminoadipate semialdehyde/rank10_confidence-3.78.sdf
+B7_17_nonanal,-3.79,/root/miniproject/DiffDock/proteinPDB/B7.pdb,/root/miniproject/results_batch/B7_17_nonanal/rank10_confidence-3.79.sdf
+B1_59_4-Hydroxynonenal_glutathione,-3.79,/root/miniproject/DiffDock/proteinPDB/B1.pdb,/root/miniproject/results_batch/B1_59_4-Hydroxynonenal_glutathione/rank10_confidence-3.79.sdf
+B4_21_cis-2-Octenal,-3.81,/root/miniproject/DiffDock/proteinPDB/B4.pdb,/root/miniproject/results_batch/B4_21_cis-2-Octenal/rank10_confidence-3.81.sdf
+B4_10_4-guanidinobutyraldehyde,-3.82,/root/miniproject/DiffDock/proteinPDB/B4.pdb,/root/miniproject/results_batch/B4_10_4-guanidinobutyraldehyde/rank10_confidence-3.82.sdf
+B5_8_hexanal,-3.82,/root/miniproject/DiffDock/proteinPDB/B5.pdb,/root/miniproject/results_batch/B5_8_hexanal/rank10_confidence-3.82.sdf
+B5_33_11-cis-Retinol,-3.84,/root/miniproject/DiffDock/proteinPDB/B5.pdb,/root/miniproject/results_batch/B5_33_11-cis-Retinol/rank10_confidence-3.84.sdf
+B7_59_4-Hydroxynonenal_glutathione,-3.85,/root/miniproject/DiffDock/proteinPDB/B7.pdb,/root/miniproject/results_batch/B7_59_4-Hydroxynonenal_glutathione/rank10_confidence-3.85.sdf
+B3_20_Citral,-3.85,/root/miniproject/DiffDock/proteinPDB/B3.pdb,/root/miniproject/results_batch/B3_20_Citral/rank10_confidence-3.85.sdf
+B7_12_prop-2-ynal,-3.87,/root/miniproject/DiffDock/proteinPDB/B7.pdb,/root/miniproject/results_batch/B7_12_prop-2-ynal/rank10_confidence-3.87.sdf
+B2_36_3-(4-Isopropylphenyl)-2-methylpropanal,-3.87,/root/miniproject/DiffDock/proteinPDB/B2.pdb,/root/miniproject/results_batch/B2_36_3-(4-Isopropylphenyl)-2-methylpropanal/rank10_confidence-3.87.sdf
+B6_49_2-Aminomuconic semialdehyde,-3.88,/root/miniproject/DiffDock/proteinPDB/B6.pdb,/root/miniproject/results_batch/B6_49_2-Aminomuconic semialdehyde/rank10_confidence-3.88.sdf
+B7_46_Succinic semialdehyde,-3.88,/root/miniproject/DiffDock/proteinPDB/B7.pdb,/root/miniproject/results_batch/B7_46_Succinic semialdehyde/rank10_confidence-3.88.sdf
+B4_14_trans-2-Hexenal,-3.88,/root/miniproject/DiffDock/proteinPDB/B4.pdb,/root/miniproject/results_batch/B4_14_trans-2-Hexenal/rank10_confidence-3.88.sdf
+B4_47_methylmalonate semialdehyde,-3.89,/root/miniproject/DiffDock/proteinPDB/B4.pdb,/root/miniproject/results_batch/B4_47_methylmalonate semialdehyde/rank10_confidence-3.89.sdf
+B3_46_Succinic semialdehyde,-3.89,/root/miniproject/DiffDock/proteinPDB/B3.pdb,/root/miniproject/results_batch/B3_46_Succinic semialdehyde/rank10_confidence-3.89.sdf
+B4_34_4-hydroxy-2-nonenal,-3.91,/root/miniproject/DiffDock/proteinPDB/B4.pdb,/root/miniproject/results_batch/B4_34_4-hydroxy-2-nonenal/rank10_confidence-3.91.sdf
+B4_51_6R-Tetrahydrofolic acid,-3.91,/root/miniproject/DiffDock/proteinPDB/B4.pdb,/root/miniproject/results_batch/B4_51_6R-Tetrahydrofolic acid/rank10_confidence-3.91.sdf
+B3_43_Glutamate-1-semialdehyde,-3.92,/root/miniproject/DiffDock/proteinPDB/B3.pdb,/root/miniproject/results_batch/B3_43_Glutamate-1-semialdehyde/rank10_confidence-3.92.sdf
+B6_35_Cinnamaldehyde,-3.93,/root/miniproject/DiffDock/proteinPDB/B6.pdb,/root/miniproject/results_batch/B6_35_Cinnamaldehyde/rank10_confidence-3.93.sdf
+B4_45_adipate semialdehyde,-3.93,/root/miniproject/DiffDock/proteinPDB/B4.pdb,/root/miniproject/results_batch/B4_45_adipate semialdehyde/rank10_confidence-3.93.sdf
+B6_28_Phenylacetaldehyde,-3.93,/root/miniproject/DiffDock/proteinPDB/B6.pdb,/root/miniproject/results_batch/B6_28_Phenylacetaldehyde/rank10_confidence-3.93.sdf
+B3_49_2-Aminomuconic semialdehyde,-3.95,/root/miniproject/DiffDock/proteinPDB/B3.pdb,/root/miniproject/results_batch/B3_49_2-Aminomuconic semialdehyde/rank10_confidence-3.95.sdf
+B6_42_Glutamate-5-semialdehyde,-3.96,/root/miniproject/DiffDock/proteinPDB/B6.pdb,/root/miniproject/results_batch/B6_42_Glutamate-5-semialdehyde/rank10_confidence-3.96.sdf
+"B2_38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",-3.98,/root/miniproject/DiffDock/proteinPDB/B2.pdb,"/root/miniproject/results_batch/B2_38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde/rank10_confidence-3.98.sdf"
+B5_16_octanaldehyde,-3.99,/root/miniproject/DiffDock/proteinPDB/B5.pdb,/root/miniproject/results_batch/B5_16_octanaldehyde/rank10_confidence-3.99.sdf
+B5_34_4-hydroxy-2-nonenal,-3.99,/root/miniproject/DiffDock/proteinPDB/B5.pdb,/root/miniproject/results_batch/B5_34_4-hydroxy-2-nonenal/rank10_confidence-3.99.sdf
+B4_48_alpha-aminoadipate semialdehyde,-4.0,/root/miniproject/DiffDock/proteinPDB/B4.pdb,/root/miniproject/results_batch/B4_48_alpha-aminoadipate semialdehyde/rank10_confidence-4.00.sdf
+"B7_38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",-4.02,/root/miniproject/DiffDock/proteinPDB/B7.pdb,"/root/miniproject/results_batch/B7_38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde/rank10_confidence-4.02.sdf"
+B7_56_S-hydroxy-methylglutathione,-4.02,/root/miniproject/DiffDock/proteinPDB/B7.pdb,/root/miniproject/results_batch/B7_56_S-hydroxy-methylglutathione/rank10_confidence-4.02.sdf
+B2_60_S-Formylglutathione,-4.04,/root/miniproject/DiffDock/proteinPDB/B2.pdb,/root/miniproject/results_batch/B2_60_S-Formylglutathione/rank10_confidence-4.04.sdf
+B5_52_Triose phosphate,-4.04,/root/miniproject/DiffDock/proteinPDB/B5.pdb,/root/miniproject/results_batch/B5_52_Triose phosphate/rank10_confidence-4.04.sdf
+B3_22_trans-2-Octenal,-4.05,/root/miniproject/DiffDock/proteinPDB/B3.pdb,/root/miniproject/results_batch/B3_22_trans-2-Octenal/rank10_confidence-4.05.sdf
+B2_7_glutaraldehyde,-4.07,/root/miniproject/DiffDock/proteinPDB/B2.pdb,/root/miniproject/results_batch/B2_7_glutaraldehyde/rank10_confidence-4.07.sdf
+B7_34_4-hydroxy-2-nonenal,-4.07,/root/miniproject/DiffDock/proteinPDB/B7.pdb,/root/miniproject/results_batch/B7_34_4-hydroxy-2-nonenal/rank10_confidence-4.07.sdf
+B6_10_4-guanidinobutyraldehyde,-4.07,/root/miniproject/DiffDock/proteinPDB/B6.pdb,/root/miniproject/results_batch/B6_10_4-guanidinobutyraldehyde/rank10_confidence-4.07.sdf
+B4_41_Indole-3-acetaldehyde,-4.08,/root/miniproject/DiffDock/proteinPDB/B4.pdb,/root/miniproject/results_batch/B4_41_Indole-3-acetaldehyde/rank10_confidence-4.08.sdf
+B2_32_9-cis-Retinal,-4.08,/root/miniproject/DiffDock/proteinPDB/B2.pdb,/root/miniproject/results_batch/B2_32_9-cis-Retinal/rank10_confidence-4.08.sdf
+B2_6_amylaldehyde,-4.09,/root/miniproject/DiffDock/proteinPDB/B2.pdb,/root/miniproject/results_batch/B2_6_amylaldehyde/rank10_confidence-4.09.sdf
+B4_9_2-hydroxypropionaldehyde,-4.1,/root/miniproject/DiffDock/proteinPDB/B4.pdb,/root/miniproject/results_batch/B4_9_2-hydroxypropionaldehyde/rank10_confidence-4.10.sdf
+"B6_30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal",-4.1,/root/miniproject/DiffDock/proteinPDB/B6.pdb,"/root/miniproject/results_batch/B6_30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal/rank10_confidence-4.10.sdf"
+B1_46_Succinic semialdehyde,-4.11,/root/miniproject/DiffDock/proteinPDB/B1.pdb,/root/miniproject/results_batch/B1_46_Succinic semialdehyde/rank10_confidence-4.11.sdf
+B1_47_methylmalonate semialdehyde,-4.12,/root/miniproject/DiffDock/proteinPDB/B1.pdb,/root/miniproject/results_batch/B1_47_methylmalonate semialdehyde/rank10_confidence-4.12.sdf
+B6_23_4-Hydroxynonenal,-4.12,/root/miniproject/DiffDock/proteinPDB/B6.pdb,/root/miniproject/results_batch/B6_23_4-Hydroxynonenal/rank10_confidence-4.12.sdf
+B4_46_Succinic semialdehyde,-4.12,/root/miniproject/DiffDock/proteinPDB/B4.pdb,/root/miniproject/results_batch/B4_46_Succinic semialdehyde/rank10_confidence-4.12.sdf
+B1_32_9-cis-Retinal,-4.13,/root/miniproject/DiffDock/proteinPDB/B1.pdb,/root/miniproject/results_batch/B1_32_9-cis-Retinal/rank10_confidence-4.13.sdf
+B4_56_S-hydroxy-methylglutathione,-4.13,/root/miniproject/DiffDock/proteinPDB/B4.pdb,/root/miniproject/results_batch/B4_56_S-hydroxy-methylglutathione/rank10_confidence-4.13.sdf
+B7_42_Glutamate-5-semialdehyde,-4.13,/root/miniproject/DiffDock/proteinPDB/B7.pdb,/root/miniproject/results_batch/B7_42_Glutamate-5-semialdehyde/rank10_confidence-4.13.sdf
+B1_7_glutaraldehyde,-4.14,/root/miniproject/DiffDock/proteinPDB/B1.pdb,/root/miniproject/results_batch/B1_7_glutaraldehyde/rank10_confidence-4.14.sdf
+"B1_31_(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal",-4.15,/root/miniproject/DiffDock/proteinPDB/B1.pdb,"/root/miniproject/results_batch/B1_31_(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal/rank10_confidence-4.15.sdf"
+B5_29_Salicylaldehyde,-4.16,/root/miniproject/DiffDock/proteinPDB/B5.pdb,/root/miniproject/results_batch/B5_29_Salicylaldehyde/rank10_confidence-4.16.sdf
+B1_20_Citral,-4.16,/root/miniproject/DiffDock/proteinPDB/B1.pdb,/root/miniproject/results_batch/B1_20_Citral/rank10_confidence-4.16.sdf
+B4_57_S-3-oxopropylglutathione,-4.17,/root/miniproject/DiffDock/proteinPDB/B4.pdb,/root/miniproject/results_batch/B4_57_S-3-oxopropylglutathione/rank10_confidence-4.17.sdf
+B4_4_malonaldehyde,-4.17,/root/miniproject/DiffDock/proteinPDB/B4.pdb,/root/miniproject/results_batch/B4_4_malonaldehyde/rank10_confidence-4.17.sdf
+B7_33_11-cis-Retinol,-4.17,/root/miniproject/DiffDock/proteinPDB/B7.pdb,/root/miniproject/results_batch/B7_33_11-cis-Retinol/rank10_confidence-4.17.sdf
+B3_60_S-Formylglutathione,-4.19,/root/miniproject/DiffDock/proteinPDB/B3.pdb,/root/miniproject/results_batch/B3_60_S-Formylglutathione/rank10_confidence-4.19.sdf
+B5_41_Indole-3-acetaldehyde,-4.21,/root/miniproject/DiffDock/proteinPDB/B5.pdb,/root/miniproject/results_batch/B5_41_Indole-3-acetaldehyde/rank10_confidence-4.21.sdf
+B3_32_9-cis-Retinal,-4.23,/root/miniproject/DiffDock/proteinPDB/B3.pdb,/root/miniproject/results_batch/B3_32_9-cis-Retinal/rank10_confidence-4.23.sdf
+B4_50_10-formyltetrahydrofolate,-4.23,/root/miniproject/DiffDock/proteinPDB/B4.pdb,/root/miniproject/results_batch/B4_50_10-formyltetrahydrofolate/rank10_confidence-4.23.sdf
+B3_59_4-Hydroxynonenal_glutathione,-4.23,/root/miniproject/DiffDock/proteinPDB/B3.pdb,/root/miniproject/results_batch/B3_59_4-Hydroxynonenal_glutathione/rank10_confidence-4.23.sdf
+B5_25_hexadecanal,-4.23,/root/miniproject/DiffDock/proteinPDB/B5.pdb,/root/miniproject/results_batch/B5_25_hexadecanal/rank10_confidence-4.23.sdf
+B6_59_4-Hydroxynonenal_glutathione,-4.24,/root/miniproject/DiffDock/proteinPDB/B6.pdb,/root/miniproject/results_batch/B6_59_4-Hydroxynonenal_glutathione/rank10_confidence-4.24.sdf
+B5_35_Cinnamaldehyde,-4.24,/root/miniproject/DiffDock/proteinPDB/B5.pdb,/root/miniproject/results_batch/B5_35_Cinnamaldehyde/rank10_confidence-4.24.sdf
+B3_29_Salicylaldehyde,-4.24,/root/miniproject/DiffDock/proteinPDB/B3.pdb,/root/miniproject/results_batch/B3_29_Salicylaldehyde/rank10_confidence-4.24.sdf
+B7_20_Citral,-4.25,/root/miniproject/DiffDock/proteinPDB/B7.pdb,/root/miniproject/results_batch/B7_20_Citral/rank10_confidence-4.25.sdf
+B5_56_S-hydroxy-methylglutathione,-4.25,/root/miniproject/DiffDock/proteinPDB/B5.pdb,/root/miniproject/results_batch/B5_56_S-hydroxy-methylglutathione/rank10_confidence-4.25.sdf
+B5_15_heptanal,-4.26,/root/miniproject/DiffDock/proteinPDB/B5.pdb,/root/miniproject/results_batch/B5_15_heptanal/rank10_confidence-4.26.sdf
+B1_51_6R-Tetrahydrofolic acid,-4.27,/root/miniproject/DiffDock/proteinPDB/B1.pdb,/root/miniproject/results_batch/B1_51_6R-Tetrahydrofolic acid/rank10_confidence-4.27.sdf
+B7_53_Pyridoxal phosphate,-4.27,/root/miniproject/DiffDock/proteinPDB/B7.pdb,/root/miniproject/results_batch/B7_53_Pyridoxal phosphate/rank10_confidence-4.27.sdf
+B3_9_2-hydroxypropionaldehyde,-4.29,/root/miniproject/DiffDock/proteinPDB/B3.pdb,/root/miniproject/results_batch/B3_9_2-hydroxypropionaldehyde/rank10_confidence-4.29.sdf
+B5_6_amylaldehyde,-4.29,/root/miniproject/DiffDock/proteinPDB/B5.pdb,/root/miniproject/results_batch/B5_6_amylaldehyde/rank10_confidence-4.29.sdf
+B4_60_S-Formylglutathione,-4.3,/root/miniproject/DiffDock/proteinPDB/B4.pdb,/root/miniproject/results_batch/B4_60_S-Formylglutathione/rank10_confidence-4.30.sdf
+B4_23_4-Hydroxynonenal,-4.3,/root/miniproject/DiffDock/proteinPDB/B4.pdb,/root/miniproject/results_batch/B4_23_4-Hydroxynonenal/rank10_confidence-4.30.sdf
+B2_59_4-Hydroxynonenal_glutathione,-4.31,/root/miniproject/DiffDock/proteinPDB/B2.pdb,/root/miniproject/results_batch/B2_59_4-Hydroxynonenal_glutathione/rank10_confidence-4.31.sdf
+B1_52_Triose phosphate,-4.31,/root/miniproject/DiffDock/proteinPDB/B1.pdb,/root/miniproject/results_batch/B1_52_Triose phosphate/rank10_confidence-4.31.sdf
+B2_13_(2E)-but-2-enal,-4.34,/root/miniproject/DiffDock/proteinPDB/B2.pdb,/root/miniproject/results_batch/B2_13_(2E)-but-2-enal/rank10_confidence-4.34.sdf
+B2_14_trans-2-Hexenal,-4.34,/root/miniproject/DiffDock/proteinPDB/B2.pdb,/root/miniproject/results_batch/B2_14_trans-2-Hexenal/rank10_confidence-4.34.sdf
+"B5_30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal",-4.34,/root/miniproject/DiffDock/proteinPDB/B5.pdb,"/root/miniproject/results_batch/B5_30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal/rank10_confidence-4.34.sdf"
+B6_14_trans-2-Hexenal,-4.35,/root/miniproject/DiffDock/proteinPDB/B6.pdb,/root/miniproject/results_batch/B6_14_trans-2-Hexenal/rank10_confidence-4.35.sdf
+B5_14_trans-2-Hexenal,-4.35,/root/miniproject/DiffDock/proteinPDB/B5.pdb,/root/miniproject/results_batch/B5_14_trans-2-Hexenal/rank10_confidence-4.35.sdf
+B2_22_trans-2-Octenal,-4.38,/root/miniproject/DiffDock/proteinPDB/B2.pdb,/root/miniproject/results_batch/B2_22_trans-2-Octenal/rank10_confidence-4.38.sdf
+B6_56_S-hydroxy-methylglutathione,-4.43,/root/miniproject/DiffDock/proteinPDB/B6.pdb,/root/miniproject/results_batch/B6_56_S-hydroxy-methylglutathione/rank10_confidence-4.43.sdf
+B3_51_6R-Tetrahydrofolic acid,-4.43,/root/miniproject/DiffDock/proteinPDB/B3.pdb,/root/miniproject/results_batch/B3_51_6R-Tetrahydrofolic acid/rank10_confidence-4.43.sdf
+B3_17_nonanal,-4.43,/root/miniproject/DiffDock/proteinPDB/B3.pdb,/root/miniproject/results_batch/B3_17_nonanal/rank10_confidence-4.43.sdf
+B1_58_S-(4-oxobutan-2-yl)glutathione,-4.44,/root/miniproject/DiffDock/proteinPDB/B1.pdb,/root/miniproject/results_batch/B1_58_S-(4-oxobutan-2-yl)glutathione/rank10_confidence-4.44.sdf
+B3_42_Glutamate-5-semialdehyde,-4.44,/root/miniproject/DiffDock/proteinPDB/B3.pdb,/root/miniproject/results_batch/B3_42_Glutamate-5-semialdehyde/rank10_confidence-4.44.sdf
+B6_15_heptanal,-4.45,/root/miniproject/DiffDock/proteinPDB/B6.pdb,/root/miniproject/results_batch/B6_15_heptanal/rank10_confidence-4.45.sdf
+B3_50_10-formyltetrahydrofolate,-4.45,/root/miniproject/DiffDock/proteinPDB/B3.pdb,/root/miniproject/results_batch/B3_50_10-formyltetrahydrofolate/rank10_confidence-4.45.sdf
+B1_48_alpha-aminoadipate semialdehyde,-4.46,/root/miniproject/DiffDock/proteinPDB/B1.pdb,/root/miniproject/results_batch/B1_48_alpha-aminoadipate semialdehyde/rank10_confidence-4.46.sdf
+B4_58_S-(4-oxobutan-2-yl)glutathione,-4.46,/root/miniproject/DiffDock/proteinPDB/B4.pdb,/root/miniproject/results_batch/B4_58_S-(4-oxobutan-2-yl)glutathione/rank10_confidence-4.46.sdf
+B2_21_cis-2-Octenal,-4.47,/root/miniproject/DiffDock/proteinPDB/B2.pdb,/root/miniproject/results_batch/B2_21_cis-2-Octenal/rank10_confidence-4.47.sdf
+B7_29_Salicylaldehyde,-4.47,/root/miniproject/DiffDock/proteinPDB/B7.pdb,/root/miniproject/results_batch/B7_29_Salicylaldehyde/rank10_confidence-4.47.sdf
+B6_58_S-(4-oxobutan-2-yl)glutathione,-4.49,/root/miniproject/DiffDock/proteinPDB/B6.pdb,/root/miniproject/results_batch/B6_58_S-(4-oxobutan-2-yl)glutathione/rank10_confidence-4.49.sdf
+B7_6_amylaldehyde,-4.5,/root/miniproject/DiffDock/proteinPDB/B7.pdb,/root/miniproject/results_batch/B7_6_amylaldehyde/rank10_confidence-4.50.sdf
+B4_53_Pyridoxal phosphate,-4.5,/root/miniproject/DiffDock/proteinPDB/B4.pdb,/root/miniproject/results_batch/B4_53_Pyridoxal phosphate/rank10_confidence-4.50.sdf
+"B5_31_(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal",-4.51,/root/miniproject/DiffDock/proteinPDB/B5.pdb,"/root/miniproject/results_batch/B5_31_(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal/rank10_confidence-4.51.sdf"
+B2_23_4-Hydroxynonenal,-4.52,/root/miniproject/DiffDock/proteinPDB/B2.pdb,/root/miniproject/results_batch/B2_23_4-Hydroxynonenal/rank10_confidence-4.52.sdf
+B6_34_4-hydroxy-2-nonenal,-4.53,/root/miniproject/DiffDock/proteinPDB/B6.pdb,/root/miniproject/results_batch/B6_34_4-hydroxy-2-nonenal/rank10_confidence-4.53.sdf
+B3_56_S-hydroxy-methylglutathione,-4.53,/root/miniproject/DiffDock/proteinPDB/B3.pdb,/root/miniproject/results_batch/B3_56_S-hydroxy-methylglutathione/rank10_confidence-4.53.sdf
+B6_50_10-formyltetrahydrofolate,-4.54,/root/miniproject/DiffDock/proteinPDB/B6.pdb,/root/miniproject/results_batch/B6_50_10-formyltetrahydrofolate/rank10_confidence-4.54.sdf
+B1_60_S-Formylglutathione,-4.55,/root/miniproject/DiffDock/proteinPDB/B1.pdb,/root/miniproject/results_batch/B1_60_S-Formylglutathione/rank10_confidence-4.55.sdf
+B4_40_Furan-2-carbaldehyde,-4.56,/root/miniproject/DiffDock/proteinPDB/B4.pdb,/root/miniproject/results_batch/B4_40_Furan-2-carbaldehyde/rank10_confidence-4.56.sdf
+B7_52_Triose phosphate,-4.56,/root/miniproject/DiffDock/proteinPDB/B7.pdb,/root/miniproject/results_batch/B7_52_Triose phosphate/rank10_confidence-4.56.sdf
+B5_59_4-Hydroxynonenal_glutathione,-4.56,/root/miniproject/DiffDock/proteinPDB/B5.pdb,/root/miniproject/results_batch/B5_59_4-Hydroxynonenal_glutathione/rank10_confidence-4.56.sdf
+B2_3_propylaldehyde,-4.58,/root/miniproject/DiffDock/proteinPDB/B2.pdb,/root/miniproject/results_batch/B2_3_propylaldehyde/rank10_confidence-4.58.sdf
+B6_51_6R-Tetrahydrofolic acid,-4.59,/root/miniproject/DiffDock/proteinPDB/B6.pdb,/root/miniproject/results_batch/B6_51_6R-Tetrahydrofolic acid/rank10_confidence-4.59.sdf
+B2_45_adipate semialdehyde,-4.59,/root/miniproject/DiffDock/proteinPDB/B2.pdb,/root/miniproject/results_batch/B2_45_adipate semialdehyde/rank10_confidence-4.59.sdf
+B1_33_11-cis-Retinol,-4.59,/root/miniproject/DiffDock/proteinPDB/B1.pdb,/root/miniproject/results_batch/B1_33_11-cis-Retinol/rank10_confidence-4.59.sdf
+B6_20_Citral,-4.6,/root/miniproject/DiffDock/proteinPDB/B6.pdb,/root/miniproject/results_batch/B6_20_Citral/rank10_confidence-4.60.sdf
+B5_40_Furan-2-carbaldehyde,-4.61,/root/miniproject/DiffDock/proteinPDB/B5.pdb,/root/miniproject/results_batch/B5_40_Furan-2-carbaldehyde/rank10_confidence-4.61.sdf
+B1_57_S-3-oxopropylglutathione,-4.62,/root/miniproject/DiffDock/proteinPDB/B1.pdb,/root/miniproject/results_batch/B1_57_S-3-oxopropylglutathione/rank10_confidence-4.62.sdf
+B3_25_hexadecanal,-4.63,/root/miniproject/DiffDock/proteinPDB/B3.pdb,/root/miniproject/results_batch/B3_25_hexadecanal/rank10_confidence-4.63.sdf
+B6_44_glutarate semialdehyde,-4.63,/root/miniproject/DiffDock/proteinPDB/B6.pdb,/root/miniproject/results_batch/B6_44_glutarate semialdehyde/rank10_confidence-4.63.sdf
+B7_32_9-cis-Retinal,-4.63,/root/miniproject/DiffDock/proteinPDB/B7.pdb,/root/miniproject/results_batch/B7_32_9-cis-Retinal/rank10_confidence-4.63.sdf
+B1_34_4-hydroxy-2-nonenal,-4.65,/root/miniproject/DiffDock/proteinPDB/B1.pdb,/root/miniproject/results_batch/B1_34_4-hydroxy-2-nonenal/rank10_confidence-4.65.sdf
+B7_8_hexanal,-4.68,/root/miniproject/DiffDock/proteinPDB/B7.pdb,/root/miniproject/results_batch/B7_8_hexanal/rank10_confidence-4.68.sdf
+B3_6_amylaldehyde,-4.68,/root/miniproject/DiffDock/proteinPDB/B3.pdb,/root/miniproject/results_batch/B3_6_amylaldehyde/rank10_confidence-4.68.sdf
+B3_3_propylaldehyde,-4.68,/root/miniproject/DiffDock/proteinPDB/B3.pdb,/root/miniproject/results_batch/B3_3_propylaldehyde/rank10_confidence-4.68.sdf
+B6_22_trans-2-Octenal,-4.69,/root/miniproject/DiffDock/proteinPDB/B6.pdb,/root/miniproject/results_batch/B6_22_trans-2-Octenal/rank10_confidence-4.69.sdf
+B6_36_3-(4-Isopropylphenyl)-2-methylpropanal,-4.7,/root/miniproject/DiffDock/proteinPDB/B6.pdb,/root/miniproject/results_batch/B6_36_3-(4-Isopropylphenyl)-2-methylpropanal/rank10_confidence-4.70.sdf
+B1_3_propylaldehyde,-4.71,/root/miniproject/DiffDock/proteinPDB/B1.pdb,/root/miniproject/results_batch/B1_3_propylaldehyde/rank10_confidence-4.71.sdf
+B6_41_Indole-3-acetaldehyde,-4.72,/root/miniproject/DiffDock/proteinPDB/B6.pdb,/root/miniproject/results_batch/B6_41_Indole-3-acetaldehyde/rank10_confidence-4.72.sdf
+B1_1_formaldehyde,-4.72,/root/miniproject/DiffDock/proteinPDB/B1.pdb,/root/miniproject/results_batch/B1_1_formaldehyde/rank10_confidence-4.72.sdf
+B1_13_(2E)-but-2-enal,-4.75,/root/miniproject/DiffDock/proteinPDB/B1.pdb,/root/miniproject/results_batch/B1_13_(2E)-but-2-enal/rank10_confidence-4.75.sdf
+B3_57_S-3-oxopropylglutathione,-4.76,/root/miniproject/DiffDock/proteinPDB/B3.pdb,/root/miniproject/results_batch/B3_57_S-3-oxopropylglutathione/rank10_confidence-4.76.sdf
+B5_51_6R-Tetrahydrofolic acid,-4.76,/root/miniproject/DiffDock/proteinPDB/B5.pdb,/root/miniproject/results_batch/B5_51_6R-Tetrahydrofolic acid/rank10_confidence-4.76.sdf
+"B1_30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal",-4.77,/root/miniproject/DiffDock/proteinPDB/B1.pdb,"/root/miniproject/results_batch/B1_30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal/rank10_confidence-4.77.sdf"
+B5_12_prop-2-ynal,-4.78,/root/miniproject/DiffDock/proteinPDB/B5.pdb,/root/miniproject/results_batch/B5_12_prop-2-ynal/rank10_confidence-4.78.sdf
+B4_35_Cinnamaldehyde,-4.79,/root/miniproject/DiffDock/proteinPDB/B4.pdb,/root/miniproject/results_batch/B4_35_Cinnamaldehyde/rank10_confidence-4.79.sdf
+B3_2_acetaldehyde,-4.8,/root/miniproject/DiffDock/proteinPDB/B3.pdb,/root/miniproject/results_batch/B3_2_acetaldehyde/rank10_confidence-4.80.sdf
+B6_43_Glutamate-1-semialdehyde,-4.82,/root/miniproject/DiffDock/proteinPDB/B6.pdb,/root/miniproject/results_batch/B6_43_Glutamate-1-semialdehyde/rank10_confidence-4.82.sdf
+B6_60_S-Formylglutathione,-4.82,/root/miniproject/DiffDock/proteinPDB/B6.pdb,/root/miniproject/results_batch/B6_60_S-Formylglutathione/rank10_confidence-4.82.sdf
+B7_51_6R-Tetrahydrofolic acid,-4.83,/root/miniproject/DiffDock/proteinPDB/B7.pdb,/root/miniproject/results_batch/B7_51_6R-Tetrahydrofolic acid/rank10_confidence-4.83.sdf
+B6_16_octanaldehyde,-4.84,/root/miniproject/DiffDock/proteinPDB/B6.pdb,/root/miniproject/results_batch/B6_16_octanaldehyde/rank10_confidence-4.84.sdf
+B7_26_trans-2-hexadecenal,-4.84,/root/miniproject/DiffDock/proteinPDB/B7.pdb,/root/miniproject/results_batch/B7_26_trans-2-hexadecenal/rank10_confidence-4.84.sdf
+"B6_38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",-4.85,/root/miniproject/DiffDock/proteinPDB/B6.pdb,"/root/miniproject/results_batch/B6_38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde/rank10_confidence-4.85.sdf"
+B5_18_decanal,-4.86,/root/miniproject/DiffDock/proteinPDB/B5.pdb,/root/miniproject/results_batch/B5_18_decanal/rank10_confidence-4.86.sdf
+B5_53_Pyridoxal phosphate,-4.86,/root/miniproject/DiffDock/proteinPDB/B5.pdb,/root/miniproject/results_batch/B5_53_Pyridoxal phosphate/rank10_confidence-4.86.sdf
+B3_48_alpha-aminoadipate semialdehyde,-4.88,/root/miniproject/DiffDock/proteinPDB/B3.pdb,/root/miniproject/results_batch/B3_48_alpha-aminoadipate semialdehyde/rank10_confidence-4.88.sdf
+B1_42_Glutamate-5-semialdehyde,-4.9,/root/miniproject/DiffDock/proteinPDB/B1.pdb,/root/miniproject/results_batch/B1_42_Glutamate-5-semialdehyde/rank10_confidence-4.90.sdf
+B6_26_trans-2-hexadecenal,-4.9,/root/miniproject/DiffDock/proteinPDB/B6.pdb,/root/miniproject/results_batch/B6_26_trans-2-hexadecenal/rank10_confidence-4.90.sdf
+B5_26_trans-2-hexadecenal,-4.9,/root/miniproject/DiffDock/proteinPDB/B5.pdb,/root/miniproject/results_batch/B5_26_trans-2-hexadecenal/rank10_confidence-4.90.sdf
+B3_40_Furan-2-carbaldehyde,-4.92,/root/miniproject/DiffDock/proteinPDB/B3.pdb,/root/miniproject/results_batch/B3_40_Furan-2-carbaldehyde/rank10_confidence-4.92.sdf
+B5_45_adipate semialdehyde,-4.94,/root/miniproject/DiffDock/proteinPDB/B5.pdb,/root/miniproject/results_batch/B5_45_adipate semialdehyde/rank10_confidence-4.94.sdf
+B1_43_Glutamate-1-semialdehyde,-4.94,/root/miniproject/DiffDock/proteinPDB/B1.pdb,/root/miniproject/results_batch/B1_43_Glutamate-1-semialdehyde/rank10_confidence-4.94.sdf
+"B1_38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",-4.96,/root/miniproject/DiffDock/proteinPDB/B1.pdb,"/root/miniproject/results_batch/B1_38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde/rank10_confidence-4.96.sdf"
+"B5_38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde",-4.97,/root/miniproject/DiffDock/proteinPDB/B5.pdb,"/root/miniproject/results_batch/B5_38_(2R)-2-[(2S,3R,4S)-3,4-Dihydroxy-5-oxo -tetrahydrofuran-2-yl]-2-hydroxy-acetaldehyde/rank10_confidence-4.97.sdf"
+B6_32_9-cis-Retinal,-4.97,/root/miniproject/DiffDock/proteinPDB/B6.pdb,/root/miniproject/results_batch/B6_32_9-cis-Retinal/rank10_confidence-4.97.sdf
+B7_44_glutarate semialdehyde,-4.97,/root/miniproject/DiffDock/proteinPDB/B7.pdb,/root/miniproject/results_batch/B7_44_glutarate semialdehyde/rank10_confidence-4.97.sdf
+B2_50_10-formyltetrahydrofolate,-4.97,/root/miniproject/DiffDock/proteinPDB/B2.pdb,/root/miniproject/results_batch/B2_50_10-formyltetrahydrofolate/rank10_confidence-4.97.sdf
+B2_16_octanaldehyde,-4.97,/root/miniproject/DiffDock/proteinPDB/B2.pdb,/root/miniproject/results_batch/B2_16_octanaldehyde/rank10_confidence-4.97.sdf
+B4_7_glutaraldehyde,-4.97,/root/miniproject/DiffDock/proteinPDB/B4.pdb,/root/miniproject/results_batch/B4_7_glutaraldehyde/rank10_confidence-4.97.sdf
+B3_33_11-cis-Retinol,-4.98,/root/miniproject/DiffDock/proteinPDB/B3.pdb,/root/miniproject/results_batch/B3_33_11-cis-Retinol/rank10_confidence-4.98.sdf
+B3_36_3-(4-Isopropylphenyl)-2-methylpropanal,-4.99,/root/miniproject/DiffDock/proteinPDB/B3.pdb,/root/miniproject/results_batch/B3_36_3-(4-Isopropylphenyl)-2-methylpropanal/rank10_confidence-4.99.sdf
+B2_47_methylmalonate semialdehyde,-5.0,/root/miniproject/DiffDock/proteinPDB/B2.pdb,/root/miniproject/results_batch/B2_47_methylmalonate semialdehyde/rank10_confidence-5.00.sdf
+B5_27_Benzaldehyde,-5.01,/root/miniproject/DiffDock/proteinPDB/B5.pdb,/root/miniproject/results_batch/B5_27_Benzaldehyde/rank10_confidence-5.01.sdf
+B6_52_Triose phosphate,-5.01,/root/miniproject/DiffDock/proteinPDB/B6.pdb,/root/miniproject/results_batch/B6_52_Triose phosphate/rank10_confidence-5.01.sdf
+B2_51_6R-Tetrahydrofolic acid,-5.05,/root/miniproject/DiffDock/proteinPDB/B2.pdb,/root/miniproject/results_batch/B2_51_6R-Tetrahydrofolic acid/rank10_confidence-5.05.sdf
+B5_57_S-3-oxopropylglutathione,-5.06,/root/miniproject/DiffDock/proteinPDB/B5.pdb,/root/miniproject/results_batch/B5_57_S-3-oxopropylglutathione/rank10_confidence-5.06.sdf
+B5_10_4-guanidinobutyraldehyde,-5.07,/root/miniproject/DiffDock/proteinPDB/B5.pdb,/root/miniproject/results_batch/B5_10_4-guanidinobutyraldehyde/rank10_confidence-5.07.sdf
+B1_9_2-hydroxypropionaldehyde,-5.07,/root/miniproject/DiffDock/proteinPDB/B1.pdb,/root/miniproject/results_batch/B1_9_2-hydroxypropionaldehyde/rank10_confidence-5.07.sdf
+B2_49_2-Aminomuconic semialdehyde,-5.07,/root/miniproject/DiffDock/proteinPDB/B2.pdb,/root/miniproject/results_batch/B2_49_2-Aminomuconic semialdehyde/rank10_confidence-5.07.sdf
+B1_14_trans-2-Hexenal,-5.07,/root/miniproject/DiffDock/proteinPDB/B1.pdb,/root/miniproject/results_batch/B1_14_trans-2-Hexenal/rank10_confidence-5.07.sdf
+B1_8_hexanal,-5.08,/root/miniproject/DiffDock/proteinPDB/B1.pdb,/root/miniproject/results_batch/B1_8_hexanal/rank10_confidence-5.08.sdf
+B7_50_10-formyltetrahydrofolate,-5.08,/root/miniproject/DiffDock/proteinPDB/B7.pdb,/root/miniproject/results_batch/B7_50_10-formyltetrahydrofolate/rank10_confidence-5.08.sdf
+B1_22_trans-2-Octenal,-5.09,/root/miniproject/DiffDock/proteinPDB/B1.pdb,/root/miniproject/results_batch/B1_22_trans-2-Octenal/rank10_confidence-5.09.sdf
+B4_29_Salicylaldehyde,-5.1,/root/miniproject/DiffDock/proteinPDB/B4.pdb,/root/miniproject/results_batch/B4_29_Salicylaldehyde/rank10_confidence-5.10.sdf
+B7_24_Tetradecanal,-5.1,/root/miniproject/DiffDock/proteinPDB/B7.pdb,/root/miniproject/results_batch/B7_24_Tetradecanal/rank10_confidence-5.10.sdf
+B3_7_glutaraldehyde,-5.13,/root/miniproject/DiffDock/proteinPDB/B3.pdb,/root/miniproject/results_batch/B3_7_glutaraldehyde/rank10_confidence-5.13.sdf
+B6_13_(2E)-but-2-enal,-5.14,/root/miniproject/DiffDock/proteinPDB/B6.pdb,/root/miniproject/results_batch/B6_13_(2E)-but-2-enal/rank10_confidence-5.14.sdf
+B1_11_prop-2-enal,-5.16,/root/miniproject/DiffDock/proteinPDB/B1.pdb,/root/miniproject/results_batch/B1_11_prop-2-enal/rank10_confidence-5.16.sdf
+B5_13_(2E)-but-2-enal,-5.16,/root/miniproject/DiffDock/proteinPDB/B5.pdb,/root/miniproject/results_batch/B5_13_(2E)-but-2-enal/rank10_confidence-5.16.sdf
+B5_50_10-formyltetrahydrofolate,-5.17,/root/miniproject/DiffDock/proteinPDB/B5.pdb,/root/miniproject/results_batch/B5_50_10-formyltetrahydrofolate/rank10_confidence-5.17.sdf
+B7_57_S-3-oxopropylglutathione,-5.17,/root/miniproject/DiffDock/proteinPDB/B7.pdb,/root/miniproject/results_batch/B7_57_S-3-oxopropylglutathione/rank10_confidence-5.17.sdf
+B7_36_3-(4-Isopropylphenyl)-2-methylpropanal,-5.21,/root/miniproject/DiffDock/proteinPDB/B7.pdb,/root/miniproject/results_batch/B7_36_3-(4-Isopropylphenyl)-2-methylpropanal/rank10_confidence-5.21.sdf
+B1_18_decanal,-5.21,/root/miniproject/DiffDock/proteinPDB/B1.pdb,/root/miniproject/results_batch/B1_18_decanal/rank10_confidence-5.21.sdf
+"B3_30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal",-5.22,/root/miniproject/DiffDock/proteinPDB/B3.pdb,"/root/miniproject/results_batch/B3_30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal/rank10_confidence-5.22.sdf"
+"B7_30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal",-5.22,/root/miniproject/DiffDock/proteinPDB/B7.pdb,"/root/miniproject/results_batch/B7_30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal/rank10_confidence-5.22.sdf"
+B5_19_dodecanal,-5.23,/root/miniproject/DiffDock/proteinPDB/B5.pdb,/root/miniproject/results_batch/B5_19_dodecanal/rank10_confidence-5.23.sdf
+B7_48_alpha-aminoadipate semialdehyde,-5.23,/root/miniproject/DiffDock/proteinPDB/B7.pdb,/root/miniproject/results_batch/B7_48_alpha-aminoadipate semialdehyde/rank10_confidence-5.23.sdf
+B7_49_2-Aminomuconic semialdehyde,-5.26,/root/miniproject/DiffDock/proteinPDB/B7.pdb,/root/miniproject/results_batch/B7_49_2-Aminomuconic semialdehyde/rank10_confidence-5.26.sdf
+"B2_30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal",-5.26,/root/miniproject/DiffDock/proteinPDB/B2.pdb,"/root/miniproject/results_batch/B2_30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal/rank10_confidence-5.26.sdf"
+B1_27_Benzaldehyde,-5.26,/root/miniproject/DiffDock/proteinPDB/B1.pdb,/root/miniproject/results_batch/B1_27_Benzaldehyde/rank10_confidence-5.26.sdf
+B7_54_Methanol,-5.27,/root/miniproject/DiffDock/proteinPDB/B7.pdb,/root/miniproject/results_batch/B7_54_Methanol/rank10_confidence-5.27.sdf
+B6_54_Methanol,-5.27,/root/miniproject/DiffDock/proteinPDB/B6.pdb,/root/miniproject/results_batch/B6_54_Methanol/rank10_confidence-5.27.sdf
+B3_54_Methanol,-5.27,/root/miniproject/DiffDock/proteinPDB/B3.pdb,/root/miniproject/results_batch/B3_54_Methanol/rank10_confidence-5.27.sdf
+B4_54_Methanol,-5.27,/root/miniproject/DiffDock/proteinPDB/B4.pdb,/root/miniproject/results_batch/B4_54_Methanol/rank10_confidence-5.27.sdf
+B2_54_Methanol,-5.27,/root/miniproject/DiffDock/proteinPDB/B2.pdb,/root/miniproject/results_batch/B2_54_Methanol/rank10_confidence-5.27.sdf
+B2_42_Glutamate-5-semialdehyde,-5.28,/root/miniproject/DiffDock/proteinPDB/B2.pdb,/root/miniproject/results_batch/B2_42_Glutamate-5-semialdehyde/rank10_confidence-5.28.sdf
+B6_19_dodecanal,-5.29,/root/miniproject/DiffDock/proteinPDB/B6.pdb,/root/miniproject/results_batch/B6_19_dodecanal/rank10_confidence-5.29.sdf
+B2_40_Furan-2-carbaldehyde,-5.29,/root/miniproject/DiffDock/proteinPDB/B2.pdb,/root/miniproject/results_batch/B2_40_Furan-2-carbaldehyde/rank10_confidence-5.29.sdf
+B3_4_malonaldehyde,-5.3,/root/miniproject/DiffDock/proteinPDB/B3.pdb,/root/miniproject/results_batch/B3_4_malonaldehyde/rank10_confidence-5.30.sdf
+B6_7_glutaraldehyde,-5.32,/root/miniproject/DiffDock/proteinPDB/B6.pdb,/root/miniproject/results_batch/B6_7_glutaraldehyde/rank10_confidence-5.32.sdf
+B1_25_hexadecanal,-5.32,/root/miniproject/DiffDock/proteinPDB/B1.pdb,/root/miniproject/results_batch/B1_25_hexadecanal/rank10_confidence-5.32.sdf
+B7_10_4-guanidinobutyraldehyde,-5.33,/root/miniproject/DiffDock/proteinPDB/B7.pdb,/root/miniproject/results_batch/B7_10_4-guanidinobutyraldehyde/rank10_confidence-5.33.sdf
+B2_57_S-3-oxopropylglutathione,-5.33,/root/miniproject/DiffDock/proteinPDB/B2.pdb,/root/miniproject/results_batch/B2_57_S-3-oxopropylglutathione/rank10_confidence-5.33.sdf
+"B4_30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal",-5.33,/root/miniproject/DiffDock/proteinPDB/B4.pdb,"/root/miniproject/results_batch/B4_30_(E)-3-(3,4-Dihydroxyphenyl)prop-2-enal/rank10_confidence-5.33.sdf"
+B3_16_octanaldehyde,-5.34,/root/miniproject/DiffDock/proteinPDB/B3.pdb,/root/miniproject/results_batch/B3_16_octanaldehyde/rank10_confidence-5.34.sdf
+B5_4_malonaldehyde,-5.34,/root/miniproject/DiffDock/proteinPDB/B5.pdb,/root/miniproject/results_batch/B5_4_malonaldehyde/rank10_confidence-5.34.sdf
+B5_11_prop-2-enal,-5.35,/root/miniproject/DiffDock/proteinPDB/B5.pdb,/root/miniproject/results_batch/B5_11_prop-2-enal/rank10_confidence-5.35.sdf
+B1_15_heptanal,-5.35,/root/miniproject/DiffDock/proteinPDB/B1.pdb,/root/miniproject/results_batch/B1_15_heptanal/rank10_confidence-5.35.sdf
+B7_60_S-Formylglutathione,-5.36,/root/miniproject/DiffDock/proteinPDB/B7.pdb,/root/miniproject/results_batch/B7_60_S-Formylglutathione/rank10_confidence-5.36.sdf
+B3_52_Triose phosphate,-5.37,/root/miniproject/DiffDock/proteinPDB/B3.pdb,/root/miniproject/results_batch/B3_52_Triose phosphate/rank10_confidence-5.37.sdf
+B7_41_Indole-3-acetaldehyde,-5.38,/root/miniproject/DiffDock/proteinPDB/B7.pdb,/root/miniproject/results_batch/B7_41_Indole-3-acetaldehyde/rank10_confidence-5.38.sdf
+B6_33_11-cis-Retinol,-5.39,/root/miniproject/DiffDock/proteinPDB/B6.pdb,/root/miniproject/results_batch/B6_33_11-cis-Retinol/rank10_confidence-5.39.sdf
+B2_34_4-hydroxy-2-nonenal,-5.39,/root/miniproject/DiffDock/proteinPDB/B2.pdb,/root/miniproject/results_batch/B2_34_4-hydroxy-2-nonenal/rank10_confidence-5.39.sdf
+B7_16_octanaldehyde,-5.39,/root/miniproject/DiffDock/proteinPDB/B7.pdb,/root/miniproject/results_batch/B7_16_octanaldehyde/rank10_confidence-5.39.sdf
+B7_22_trans-2-Octenal,-5.39,/root/miniproject/DiffDock/proteinPDB/B7.pdb,/root/miniproject/results_batch/B7_22_trans-2-Octenal/rank10_confidence-5.39.sdf
+B1_36_3-(4-Isopropylphenyl)-2-methylpropanal,-5.39,/root/miniproject/DiffDock/proteinPDB/B1.pdb,/root/miniproject/results_batch/B1_36_3-(4-Isopropylphenyl)-2-methylpropanal/rank10_confidence-5.39.sdf
+B3_1_formaldehyde,-5.4,/root/miniproject/DiffDock/proteinPDB/B3.pdb,/root/miniproject/results_batch/B3_1_formaldehyde/rank10_confidence-5.40.sdf
+"B6_31_(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal",-5.41,/root/miniproject/DiffDock/proteinPDB/B6.pdb,"/root/miniproject/results_batch/B6_31_(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal/rank10_confidence-5.41.sdf"
+B2_25_hexadecanal,-5.41,/root/miniproject/DiffDock/proteinPDB/B2.pdb,/root/miniproject/results_batch/B2_25_hexadecanal/rank10_confidence-5.41.sdf
+B4_42_Glutamate-5-semialdehyde,-5.41,/root/miniproject/DiffDock/proteinPDB/B4.pdb,/root/miniproject/results_batch/B4_42_Glutamate-5-semialdehyde/rank10_confidence-5.41.sdf
+B7_28_Phenylacetaldehyde,-5.42,/root/miniproject/DiffDock/proteinPDB/B7.pdb,/root/miniproject/results_batch/B7_28_Phenylacetaldehyde/rank10_confidence-5.42.sdf
+B5_37_thiobenzaldehyde,-5.42,/root/miniproject/DiffDock/proteinPDB/B5.pdb,/root/miniproject/results_batch/B5_37_thiobenzaldehyde/rank10_confidence-5.42.sdf
+B2_43_Glutamate-1-semialdehyde,-5.43,/root/miniproject/DiffDock/proteinPDB/B2.pdb,/root/miniproject/results_batch/B2_43_Glutamate-1-semialdehyde/rank10_confidence-5.43.sdf
+B6_46_Succinic semialdehyde,-5.43,/root/miniproject/DiffDock/proteinPDB/B6.pdb,/root/miniproject/results_batch/B6_46_Succinic semialdehyde/rank10_confidence-5.43.sdf
+B2_52_Triose phosphate,-5.43,/root/miniproject/DiffDock/proteinPDB/B2.pdb,/root/miniproject/results_batch/B2_52_Triose phosphate/rank10_confidence-5.43.sdf
+B4_20_Citral,-5.45,/root/miniproject/DiffDock/proteinPDB/B4.pdb,/root/miniproject/results_batch/B4_20_Citral/rank10_confidence-5.45.sdf
+B3_13_(2E)-but-2-enal,-5.46,/root/miniproject/DiffDock/proteinPDB/B3.pdb,/root/miniproject/results_batch/B3_13_(2E)-but-2-enal/rank10_confidence-5.46.sdf
+B3_10_4-guanidinobutyraldehyde,-5.46,/root/miniproject/DiffDock/proteinPDB/B3.pdb,/root/miniproject/results_batch/B3_10_4-guanidinobutyraldehyde/rank10_confidence-5.46.sdf
+B7_43_Glutamate-1-semialdehyde,-5.47,/root/miniproject/DiffDock/proteinPDB/B7.pdb,/root/miniproject/results_batch/B7_43_Glutamate-1-semialdehyde/rank10_confidence-5.47.sdf
+B1_29_Salicylaldehyde,-5.47,/root/miniproject/DiffDock/proteinPDB/B1.pdb,/root/miniproject/results_batch/B1_29_Salicylaldehyde/rank10_confidence-5.47.sdf
+B3_8_hexanal,-5.48,/root/miniproject/DiffDock/proteinPDB/B3.pdb,/root/miniproject/results_batch/B3_8_hexanal/rank10_confidence-5.48.sdf
+B2_56_S-hydroxy-methylglutathione,-5.49,/root/miniproject/DiffDock/proteinPDB/B2.pdb,/root/miniproject/results_batch/B2_56_S-hydroxy-methylglutathione/rank10_confidence-5.49.sdf
+B1_39_4-nitrobenzaldehyde,-5.5,/root/miniproject/DiffDock/proteinPDB/B1.pdb,/root/miniproject/results_batch/B1_39_4-nitrobenzaldehyde/rank10_confidence-5.50.sdf
+B7_14_trans-2-Hexenal,-5.5,/root/miniproject/DiffDock/proteinPDB/B7.pdb,/root/miniproject/results_batch/B7_14_trans-2-Hexenal/rank10_confidence-5.50.sdf
+B2_10_4-guanidinobutyraldehyde,-5.54,/root/miniproject/DiffDock/proteinPDB/B2.pdb,/root/miniproject/results_batch/B2_10_4-guanidinobutyraldehyde/rank10_confidence-5.54.sdf
+B2_55_Ethanol,-5.55,/root/miniproject/DiffDock/proteinPDB/B2.pdb,/root/miniproject/results_batch/B2_55_Ethanol/rank10_confidence-5.55.sdf
+B2_44_glutarate semialdehyde,-5.56,/root/miniproject/DiffDock/proteinPDB/B2.pdb,/root/miniproject/results_batch/B2_44_glutarate semialdehyde/rank10_confidence-5.56.sdf
+B3_34_4-hydroxy-2-nonenal,-5.57,/root/miniproject/DiffDock/proteinPDB/B3.pdb,/root/miniproject/results_batch/B3_34_4-hydroxy-2-nonenal/rank10_confidence-5.57.sdf
+B4_52_Triose phosphate,-5.57,/root/miniproject/DiffDock/proteinPDB/B4.pdb,/root/miniproject/results_batch/B4_52_Triose phosphate/rank10_confidence-5.57.sdf
+B1_41_Indole-3-acetaldehyde,-5.57,/root/miniproject/DiffDock/proteinPDB/B1.pdb,/root/miniproject/results_batch/B1_41_Indole-3-acetaldehyde/rank10_confidence-5.57.sdf
+B3_15_heptanal,-5.57,/root/miniproject/DiffDock/proteinPDB/B3.pdb,/root/miniproject/results_batch/B3_15_heptanal/rank10_confidence-5.57.sdf
+B4_49_2-Aminomuconic semialdehyde,-5.57,/root/miniproject/DiffDock/proteinPDB/B4.pdb,/root/miniproject/results_batch/B4_49_2-Aminomuconic semialdehyde/rank10_confidence-5.57.sdf
+B1_12_prop-2-ynal,-5.58,/root/miniproject/DiffDock/proteinPDB/B1.pdb,/root/miniproject/results_batch/B1_12_prop-2-ynal/rank10_confidence-5.58.sdf
+B6_18_decanal,-5.59,/root/miniproject/DiffDock/proteinPDB/B6.pdb,/root/miniproject/results_batch/B6_18_decanal/rank10_confidence-5.59.sdf
+B2_15_heptanal,-5.6,/root/miniproject/DiffDock/proteinPDB/B2.pdb,/root/miniproject/results_batch/B2_15_heptanal/rank10_confidence-5.60.sdf
+B3_41_Indole-3-acetaldehyde,-5.61,/root/miniproject/DiffDock/proteinPDB/B3.pdb,/root/miniproject/results_batch/B3_41_Indole-3-acetaldehyde/rank10_confidence-5.61.sdf
+B3_45_adipate semialdehyde,-5.62,/root/miniproject/DiffDock/proteinPDB/B3.pdb,/root/miniproject/results_batch/B3_45_adipate semialdehyde/rank10_confidence-5.62.sdf
+B6_6_amylaldehyde,-5.62,/root/miniproject/DiffDock/proteinPDB/B6.pdb,/root/miniproject/results_batch/B6_6_amylaldehyde/rank10_confidence-5.62.sdf
+B3_39_4-nitrobenzaldehyde,-5.62,/root/miniproject/DiffDock/proteinPDB/B3.pdb,/root/miniproject/results_batch/B3_39_4-nitrobenzaldehyde/rank10_confidence-5.62.sdf
+B7_58_S-(4-oxobutan-2-yl)glutathione,-5.63,/root/miniproject/DiffDock/proteinPDB/B7.pdb,/root/miniproject/results_batch/B7_58_S-(4-oxobutan-2-yl)glutathione/rank10_confidence-5.63.sdf
+B1_10_4-guanidinobutyraldehyde,-5.64,/root/miniproject/DiffDock/proteinPDB/B1.pdb,/root/miniproject/results_batch/B1_10_4-guanidinobutyraldehyde/rank10_confidence-5.64.sdf
+B7_7_glutaraldehyde,-5.64,/root/miniproject/DiffDock/proteinPDB/B7.pdb,/root/miniproject/results_batch/B7_7_glutaraldehyde/rank10_confidence-5.64.sdf
+B1_54_Methanol,-5.65,/root/miniproject/DiffDock/proteinPDB/B1.pdb,/root/miniproject/results_batch/B1_54_Methanol/rank10_confidence-5.65.sdf
+B6_45_adipate semialdehyde,-5.66,/root/miniproject/DiffDock/proteinPDB/B6.pdb,/root/miniproject/results_batch/B6_45_adipate semialdehyde/rank10_confidence-5.66.sdf
+B7_39_4-nitrobenzaldehyde,-5.66,/root/miniproject/DiffDock/proteinPDB/B7.pdb,/root/miniproject/results_batch/B7_39_4-nitrobenzaldehyde/rank10_confidence-5.66.sdf
+B6_11_prop-2-enal,-5.68,/root/miniproject/DiffDock/proteinPDB/B6.pdb,/root/miniproject/results_batch/B6_11_prop-2-enal/rank10_confidence-5.68.sdf
+B7_15_heptanal,-5.68,/root/miniproject/DiffDock/proteinPDB/B7.pdb,/root/miniproject/results_batch/B7_15_heptanal/rank10_confidence-5.68.sdf
+B5_23_4-Hydroxynonenal,-5.7,/root/miniproject/DiffDock/proteinPDB/B5.pdb,/root/miniproject/results_batch/B5_23_4-Hydroxynonenal/rank10_confidence-5.70.sdf
+B5_48_alpha-aminoadipate semialdehyde,-5.7,/root/miniproject/DiffDock/proteinPDB/B5.pdb,/root/miniproject/results_batch/B5_48_alpha-aminoadipate semialdehyde/rank10_confidence-5.70.sdf
+B3_23_4-Hydroxynonenal,-5.7,/root/miniproject/DiffDock/proteinPDB/B3.pdb,/root/miniproject/results_batch/B3_23_4-Hydroxynonenal/rank10_confidence-5.70.sdf
+B5_7_glutaraldehyde,-5.71,/root/miniproject/DiffDock/proteinPDB/B5.pdb,/root/miniproject/results_batch/B5_7_glutaraldehyde/rank10_confidence-5.71.sdf
+B1_40_Furan-2-carbaldehyde,-5.73,/root/miniproject/DiffDock/proteinPDB/B1.pdb,/root/miniproject/results_batch/B1_40_Furan-2-carbaldehyde/rank10_confidence-5.73.sdf
+B6_24_Tetradecanal,-5.75,/root/miniproject/DiffDock/proteinPDB/B6.pdb,/root/miniproject/results_batch/B6_24_Tetradecanal/rank10_confidence-5.75.sdf
+B5_44_glutarate semialdehyde,-5.75,/root/miniproject/DiffDock/proteinPDB/B5.pdb,/root/miniproject/results_batch/B5_44_glutarate semialdehyde/rank10_confidence-5.75.sdf
+B7_40_Furan-2-carbaldehyde,-5.77,/root/miniproject/DiffDock/proteinPDB/B7.pdb,/root/miniproject/results_batch/B7_40_Furan-2-carbaldehyde/rank10_confidence-5.77.sdf
+B5_22_trans-2-Octenal,-5.78,/root/miniproject/DiffDock/proteinPDB/B5.pdb,/root/miniproject/results_batch/B5_22_trans-2-Octenal/rank10_confidence-5.78.sdf
+B7_13_(2E)-but-2-enal,-5.82,/root/miniproject/DiffDock/proteinPDB/B7.pdb,/root/miniproject/results_batch/B7_13_(2E)-but-2-enal/rank10_confidence-5.82.sdf
+B1_45_adipate semialdehyde,-5.83,/root/miniproject/DiffDock/proteinPDB/B1.pdb,/root/miniproject/results_batch/B1_45_adipate semialdehyde/rank10_confidence-5.83.sdf
+B1_23_4-Hydroxynonenal,-5.83,/root/miniproject/DiffDock/proteinPDB/B1.pdb,/root/miniproject/results_batch/B1_23_4-Hydroxynonenal/rank10_confidence-5.83.sdf
+B2_2_acetaldehyde,-5.84,/root/miniproject/DiffDock/proteinPDB/B2.pdb,/root/miniproject/results_batch/B2_2_acetaldehyde/rank10_confidence-5.84.sdf
+B2_39_4-nitrobenzaldehyde,-5.85,/root/miniproject/DiffDock/proteinPDB/B2.pdb,/root/miniproject/results_batch/B2_39_4-nitrobenzaldehyde/rank10_confidence-5.85.sdf
+B2_35_Cinnamaldehyde,-5.86,/root/miniproject/DiffDock/proteinPDB/B2.pdb,/root/miniproject/results_batch/B2_35_Cinnamaldehyde/rank10_confidence-5.86.sdf
+B3_12_prop-2-ynal,-5.86,/root/miniproject/DiffDock/proteinPDB/B3.pdb,/root/miniproject/results_batch/B3_12_prop-2-ynal/rank10_confidence-5.86.sdf
+B5_24_Tetradecanal,-5.88,/root/miniproject/DiffDock/proteinPDB/B5.pdb,/root/miniproject/results_batch/B5_24_Tetradecanal/rank10_confidence-5.88.sdf
+B5_1_formaldehyde,-5.9,/root/miniproject/DiffDock/proteinPDB/B5.pdb,/root/miniproject/results_batch/B5_1_formaldehyde/rank10_confidence-5.90.sdf
+B5_42_Glutamate-5-semialdehyde,-5.93,/root/miniproject/DiffDock/proteinPDB/B5.pdb,/root/miniproject/results_batch/B5_42_Glutamate-5-semialdehyde/rank10_confidence-5.93.sdf
+B3_35_Cinnamaldehyde,-6.03,/root/miniproject/DiffDock/proteinPDB/B3.pdb,/root/miniproject/results_batch/B3_35_Cinnamaldehyde/rank10_confidence-6.03.sdf
+B1_4_malonaldehyde,-6.05,/root/miniproject/DiffDock/proteinPDB/B1.pdb,/root/miniproject/results_batch/B1_4_malonaldehyde/rank10_confidence-6.05.sdf
+B2_48_alpha-aminoadipate semialdehyde,-6.06,/root/miniproject/DiffDock/proteinPDB/B2.pdb,/root/miniproject/results_batch/B2_48_alpha-aminoadipate semialdehyde/rank10_confidence-6.06.sdf
+B6_39_4-nitrobenzaldehyde,-6.1,/root/miniproject/DiffDock/proteinPDB/B6.pdb,/root/miniproject/results_batch/B6_39_4-nitrobenzaldehyde/rank10_confidence-6.10.sdf
+B2_24_Tetradecanal,-6.13,/root/miniproject/DiffDock/proteinPDB/B2.pdb,/root/miniproject/results_batch/B2_24_Tetradecanal/rank10_confidence-6.13.sdf
+B5_43_Glutamate-1-semialdehyde,-6.14,/root/miniproject/DiffDock/proteinPDB/B5.pdb,/root/miniproject/results_batch/B5_43_Glutamate-1-semialdehyde/rank10_confidence-6.14.sdf
+B5_21_cis-2-Octenal,-6.15,/root/miniproject/DiffDock/proteinPDB/B5.pdb,/root/miniproject/results_batch/B5_21_cis-2-Octenal/rank10_confidence-6.15.sdf
+B7_21_cis-2-Octenal,-6.2,/root/miniproject/DiffDock/proteinPDB/B7.pdb,/root/miniproject/results_batch/B7_21_cis-2-Octenal/rank10_confidence-6.20.sdf
+B5_46_Succinic semialdehyde,-6.22,/root/miniproject/DiffDock/proteinPDB/B5.pdb,/root/miniproject/results_batch/B5_46_Succinic semialdehyde/rank10_confidence-6.22.sdf
+B6_9_2-hydroxypropionaldehyde,-6.25,/root/miniproject/DiffDock/proteinPDB/B6.pdb,/root/miniproject/results_batch/B6_9_2-hydroxypropionaldehyde/rank10_confidence-6.25.sdf
+B5_49_2-Aminomuconic semialdehyde,-6.29,/root/miniproject/DiffDock/proteinPDB/B5.pdb,/root/miniproject/results_batch/B5_49_2-Aminomuconic semialdehyde/rank10_confidence-6.29.sdf
+B6_21_cis-2-Octenal,-6.31,/root/miniproject/DiffDock/proteinPDB/B6.pdb,/root/miniproject/results_batch/B6_21_cis-2-Octenal/rank10_confidence-6.31.sdf
+B6_25_hexadecanal,-6.32,/root/miniproject/DiffDock/proteinPDB/B6.pdb,/root/miniproject/results_batch/B6_25_hexadecanal/rank10_confidence-6.32.sdf
+B2_41_Indole-3-acetaldehyde,-6.37,/root/miniproject/DiffDock/proteinPDB/B2.pdb,/root/miniproject/results_batch/B2_41_Indole-3-acetaldehyde/rank10_confidence-6.37.sdf
+B2_1_formaldehyde,-6.38,/root/miniproject/DiffDock/proteinPDB/B2.pdb,/root/miniproject/results_batch/B2_1_formaldehyde/rank10_confidence-6.38.sdf
+B2_28_Phenylacetaldehyde,-6.38,/root/miniproject/DiffDock/proteinPDB/B2.pdb,/root/miniproject/results_batch/B2_28_Phenylacetaldehyde/rank10_confidence-6.38.sdf
+B6_5_butyraldehyde,-6.4,/root/miniproject/DiffDock/proteinPDB/B6.pdb,/root/miniproject/results_batch/B6_5_butyraldehyde/rank10_confidence-6.40.sdf
+B5_54_Methanol,-6.42,/root/miniproject/DiffDock/proteinPDB/B5.pdb,/root/miniproject/results_batch/B5_54_Methanol/rank10_confidence-6.42.sdf
+B3_26_trans-2-hexadecenal,-6.43,/root/miniproject/DiffDock/proteinPDB/B3.pdb,/root/miniproject/results_batch/B3_26_trans-2-hexadecenal/rank10_confidence-6.43.sdf
+B7_35_Cinnamaldehyde,-6.45,/root/miniproject/DiffDock/proteinPDB/B7.pdb,/root/miniproject/results_batch/B7_35_Cinnamaldehyde/rank10_confidence-6.45.sdf
+B2_4_malonaldehyde,-6.48,/root/miniproject/DiffDock/proteinPDB/B2.pdb,/root/miniproject/results_batch/B2_4_malonaldehyde/rank10_confidence-6.48.sdf
+B4_13_(2E)-but-2-enal,-6.49,/root/miniproject/DiffDock/proteinPDB/B4.pdb,/root/miniproject/results_batch/B4_13_(2E)-but-2-enal/rank10_confidence-6.49.sdf
+B2_27_Benzaldehyde,-6.49,/root/miniproject/DiffDock/proteinPDB/B2.pdb,/root/miniproject/results_batch/B2_27_Benzaldehyde/rank10_confidence-6.49.sdf
+B1_16_octanaldehyde,-6.57,/root/miniproject/DiffDock/proteinPDB/B1.pdb,/root/miniproject/results_batch/B1_16_octanaldehyde/rank10_confidence-6.57.sdf
+B7_37_thiobenzaldehyde,-6.59,/root/miniproject/DiffDock/proteinPDB/B7.pdb,/root/miniproject/results_batch/B7_37_thiobenzaldehyde/rank10_confidence-6.59.sdf
+B7_47_methylmalonate semialdehyde,-6.59,/root/miniproject/DiffDock/proteinPDB/B7.pdb,/root/miniproject/results_batch/B7_47_methylmalonate semialdehyde/rank10_confidence-6.59.sdf
+B7_11_prop-2-enal,-6.63,/root/miniproject/DiffDock/proteinPDB/B7.pdb,/root/miniproject/results_batch/B7_11_prop-2-enal/rank10_confidence-6.63.sdf
+B4_11_prop-2-enal,-6.7,/root/miniproject/DiffDock/proteinPDB/B4.pdb,/root/miniproject/results_batch/B4_11_prop-2-enal/rank10_confidence-6.70.sdf
+B3_28_Phenylacetaldehyde,-6.72,/root/miniproject/DiffDock/proteinPDB/B3.pdb,/root/miniproject/results_batch/B3_28_Phenylacetaldehyde/rank10_confidence-6.72.sdf
+B6_8_hexanal,-6.74,/root/miniproject/DiffDock/proteinPDB/B6.pdb,/root/miniproject/results_batch/B6_8_hexanal/rank10_confidence-6.74.sdf
+B6_1_formaldehyde,-6.75,/root/miniproject/DiffDock/proteinPDB/B6.pdb,/root/miniproject/results_batch/B6_1_formaldehyde/rank10_confidence-6.75.sdf
+B6_3_propylaldehyde,-6.81,/root/miniproject/DiffDock/proteinPDB/B6.pdb,/root/miniproject/results_batch/B6_3_propylaldehyde/rank10_confidence-6.81.sdf
+B5_2_acetaldehyde,-6.84,/root/miniproject/DiffDock/proteinPDB/B5.pdb,/root/miniproject/results_batch/B5_2_acetaldehyde/rank10_confidence-6.84.sdf
+B2_11_prop-2-enal,-6.84,/root/miniproject/DiffDock/proteinPDB/B2.pdb,/root/miniproject/results_batch/B2_11_prop-2-enal/rank10_confidence-6.84.sdf
+B1_28_Phenylacetaldehyde,-6.93,/root/miniproject/DiffDock/proteinPDB/B1.pdb,/root/miniproject/results_batch/B1_28_Phenylacetaldehyde/rank10_confidence-6.93.sdf
+B3_11_prop-2-enal,-7.14,/root/miniproject/DiffDock/proteinPDB/B3.pdb,/root/miniproject/results_batch/B3_11_prop-2-enal/rank10_confidence-7.14.sdf
+B3_5_butyraldehyde,-7.21,/root/miniproject/DiffDock/proteinPDB/B3.pdb,/root/miniproject/results_batch/B3_5_butyraldehyde/rank10_confidence-7.21.sdf
+B7_3_propylaldehyde,-7.21,/root/miniproject/DiffDock/proteinPDB/B7.pdb,/root/miniproject/results_batch/B7_3_propylaldehyde/rank10_confidence-7.21.sdf
+B4_27_Benzaldehyde,-7.22,/root/miniproject/DiffDock/proteinPDB/B4.pdb,/root/miniproject/results_batch/B4_27_Benzaldehyde/rank10_confidence-7.22.sdf
+B3_27_Benzaldehyde,-7.38,/root/miniproject/DiffDock/proteinPDB/B3.pdb,/root/miniproject/results_batch/B3_27_Benzaldehyde/rank10_confidence-7.38.sdf
+B5_55_Ethanol,-7.4,/root/miniproject/DiffDock/proteinPDB/B5.pdb,/root/miniproject/results_batch/B5_55_Ethanol/rank10_confidence-7.40.sdf
+B3_19_dodecanal,-7.56,/root/miniproject/DiffDock/proteinPDB/B3.pdb,/root/miniproject/results_batch/B3_19_dodecanal/rank10_confidence-7.56.sdf
+B7_2_acetaldehyde,-7.72,/root/miniproject/DiffDock/proteinPDB/B7.pdb,/root/miniproject/results_batch/B7_2_acetaldehyde/rank10_confidence-7.72.sdf
+B5_28_Phenylacetaldehyde,-7.83,/root/miniproject/DiffDock/proteinPDB/B5.pdb,/root/miniproject/results_batch/B5_28_Phenylacetaldehyde/rank10_confidence-7.83.sdf
+B6_4_malonaldehyde,-7.84,/root/miniproject/DiffDock/proteinPDB/B6.pdb,/root/miniproject/results_batch/B6_4_malonaldehyde/rank10_confidence-7.84.sdf
+B1_26_trans-2-hexadecenal,-7.9,/root/miniproject/DiffDock/proteinPDB/B1.pdb,/root/miniproject/results_batch/B1_26_trans-2-hexadecenal/rank10_confidence-7.90.sdf
+B2_26_trans-2-hexadecenal,-7.94,/root/miniproject/DiffDock/proteinPDB/B2.pdb,/root/miniproject/results_batch/B2_26_trans-2-hexadecenal/rank10_confidence-7.94.sdf
+B7_27_Benzaldehyde,-8.0,/root/miniproject/DiffDock/proteinPDB/B7.pdb,/root/miniproject/results_batch/B7_27_Benzaldehyde/rank10_confidence-8.00.sdf
+B3_21_cis-2-Octenal,-8.26,/root/miniproject/DiffDock/proteinPDB/B3.pdb,/root/miniproject/results_batch/B3_21_cis-2-Octenal/rank10_confidence-8.26.sdf
+B2_37_thiobenzaldehyde,-8.28,/root/miniproject/DiffDock/proteinPDB/B2.pdb,/root/miniproject/results_batch/B2_37_thiobenzaldehyde/rank10_confidence-8.28.sdf
+B1_35_Cinnamaldehyde,-8.42,/root/miniproject/DiffDock/proteinPDB/B1.pdb,/root/miniproject/results_batch/B1_35_Cinnamaldehyde/rank10_confidence-8.42.sdf
+B6_37_thiobenzaldehyde,-8.57,/root/miniproject/DiffDock/proteinPDB/B6.pdb,/root/miniproject/results_batch/B6_37_thiobenzaldehyde/rank10_confidence-8.57.sdf
+B7_5_butyraldehyde,-8.61,/root/miniproject/DiffDock/proteinPDB/B7.pdb,/root/miniproject/results_batch/B7_5_butyraldehyde/rank10_confidence-8.61.sdf
+B6_29_Salicylaldehyde,-8.65,/root/miniproject/DiffDock/proteinPDB/B6.pdb,/root/miniproject/results_batch/B6_29_Salicylaldehyde/rank10_confidence-8.65.sdf
+B5_3_propylaldehyde,-8.65,/root/miniproject/DiffDock/proteinPDB/B5.pdb,/root/miniproject/results_batch/B5_3_propylaldehyde/rank10_confidence-8.65.sdf
+B1_37_thiobenzaldehyde,-9.01,/root/miniproject/DiffDock/proteinPDB/B1.pdb,/root/miniproject/results_batch/B1_37_thiobenzaldehyde/rank10_confidence-9.01.sdf
+B4_28_Phenylacetaldehyde,-9.03,/root/miniproject/DiffDock/proteinPDB/B4.pdb,/root/miniproject/results_batch/B4_28_Phenylacetaldehyde/rank10_confidence-9.03.sdf
+B6_12_prop-2-ynal,-9.24,/root/miniproject/DiffDock/proteinPDB/B6.pdb,/root/miniproject/results_batch/B6_12_prop-2-ynal/rank10_confidence-9.24.sdf
+B6_17_nonanal,-9.37,/root/miniproject/DiffDock/proteinPDB/B6.pdb,/root/miniproject/results_batch/B6_17_nonanal/rank10_confidence-9.37.sdf
+B6_27_Benzaldehyde,-9.51,/root/miniproject/DiffDock/proteinPDB/B6.pdb,/root/miniproject/results_batch/B6_27_Benzaldehyde/rank10_confidence-9.51.sdf
+B1_21_cis-2-Octenal,-9.54,/root/miniproject/DiffDock/proteinPDB/B1.pdb,/root/miniproject/results_batch/B1_21_cis-2-Octenal/rank10_confidence-9.54.sdf
+B1_19_dodecanal,-10.03,/root/miniproject/DiffDock/proteinPDB/B1.pdb,/root/miniproject/results_batch/B1_19_dodecanal/rank10_confidence-10.03.sdf
+B2_18_decanal,-10.06,/root/miniproject/DiffDock/proteinPDB/B2.pdb,/root/miniproject/results_batch/B2_18_decanal/rank10_confidence-10.06.sdf
+B4_43_Glutamate-1-semialdehyde,-10.53,/root/miniproject/DiffDock/proteinPDB/B4.pdb,/root/miniproject/results_batch/B4_43_Glutamate-1-semialdehyde/rank10_confidence-10.53.sdf
+B1_5_butyraldehyde,-10.55,/root/miniproject/DiffDock/proteinPDB/B1.pdb,/root/miniproject/results_batch/B1_5_butyraldehyde/rank10_confidence-10.55.sdf
+B5_5_butyraldehyde,-10.56,/root/miniproject/DiffDock/proteinPDB/B5.pdb,/root/miniproject/results_batch/B5_5_butyraldehyde/rank10_confidence-10.56.sdf
+B2_5_butyraldehyde,-10.79,/root/miniproject/DiffDock/proteinPDB/B2.pdb,/root/miniproject/results_batch/B2_5_butyraldehyde/rank10_confidence-10.79.sdf
+B7_23_4-Hydroxynonenal,-10.99,/root/miniproject/DiffDock/proteinPDB/B7.pdb,/root/miniproject/results_batch/B7_23_4-Hydroxynonenal/rank10_confidence-10.99.sdf
+B1_24_Tetradecanal,-11.07,/root/miniproject/DiffDock/proteinPDB/B1.pdb,/root/miniproject/results_batch/B1_24_Tetradecanal/rank10_confidence-11.07.sdf
+B3_24_Tetradecanal,-11.97,/root/miniproject/DiffDock/proteinPDB/B3.pdb,/root/miniproject/results_batch/B3_24_Tetradecanal/rank10_confidence-11.97.sdf
+B1_55_Ethanol,-12.51,/root/miniproject/DiffDock/proteinPDB/B1.pdb,/root/miniproject/results_batch/B1_55_Ethanol/rank10_confidence-12.51.sdf
+B3_37_thiobenzaldehyde,-12.75,/root/miniproject/DiffDock/proteinPDB/B3.pdb,/root/miniproject/results_batch/B3_37_thiobenzaldehyde/rank10_confidence-12.75.sdf
+B3_55_Ethanol,-13.04,/root/miniproject/DiffDock/proteinPDB/B3.pdb,/root/miniproject/results_batch/B3_55_Ethanol/rank10_confidence-13.04.sdf
+B2_8_hexanal,-13.7,/root/miniproject/DiffDock/proteinPDB/B2.pdb,/root/miniproject/results_batch/B2_8_hexanal/rank10_confidence-13.70.sdf
+B6_55_Ethanol,-23.81,/root/miniproject/DiffDock/proteinPDB/B6.pdb,/root/miniproject/results_batch/B6_55_Ethanol/rank10_confidence-23.81.sdf
+B1_17_nonanal,-34.83,/root/miniproject/DiffDock/proteinPDB/B1.pdb,/root/miniproject/results_batch/B1_17_nonanal/rank10_confidence-34.83.sdf
+"B3_31_(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal",-1000.0,/root/miniproject/DiffDock/proteinPDB/B3.pdb,"/root/miniproject/results_batch/B3_31_(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal/rank10_confidence-1000.00.sdf"
+B5_60_S-Formylglutathione,-1000.0,/root/miniproject/DiffDock/proteinPDB/B5.pdb,/root/miniproject/results_batch/B5_60_S-Formylglutathione/rank10_confidence-1000.00.sdf
+B5_39_4-nitrobenzaldehyde,-1000.0,/root/miniproject/DiffDock/proteinPDB/B5.pdb,/root/miniproject/results_batch/B5_39_4-nitrobenzaldehyde/rank10_confidence-1000.00.sdf
+B5_58_S-(4-oxobutan-2-yl)glutathione,-1000.0,/root/miniproject/DiffDock/proteinPDB/B5.pdb,/root/miniproject/results_batch/B5_58_S-(4-oxobutan-2-yl)glutathione/rank10_confidence-1000.00.sdf

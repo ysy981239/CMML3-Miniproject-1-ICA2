@@ -1,0 +1,21 @@
+Complex_Name,Confidence_Score,Protein_Path,Ligand_Path,Delta_G (kcal/mol)
+B1_44_glutarate semialdehyde,-2.03,/root/miniproject/DiffDock/proteinPDB/B1.pdb,/root/miniproject/results_batch/B1_44_glutarate semialdehyde/rank10_confidence-2.03.sdf,-5.47
+B4_6_amylaldehyde,-2.34,/root/miniproject/DiffDock/proteinPDB/B4.pdb,/root/miniproject/results_batch/B4_6_amylaldehyde/rank10_confidence-2.34.sdf,-5.47
+B5_17_nonanal,-1.75,/root/miniproject/DiffDock/proteinPDB/B5.pdb,/root/miniproject/results_batch/B5_17_nonanal/rank10_confidence-1.75.sdf,-5.4
+B3_44_glutarate semialdehyde,-2.3,/root/miniproject/DiffDock/proteinPDB/B3.pdb,/root/miniproject/results_batch/B3_44_glutarate semialdehyde/rank10_confidence-2.30.sdf,-5.39
+B4_8_hexanal,-2.54,/root/miniproject/DiffDock/proteinPDB/B4.pdb,/root/miniproject/results_batch/B4_8_hexanal/rank10_confidence-2.54.sdf,-5.39
+B4_25_hexadecanal,-2.31,/root/miniproject/DiffDock/proteinPDB/B4.pdb,/root/miniproject/results_batch/B4_25_hexadecanal/rank10_confidence-2.31.sdf,-5.38
+B4_32_9-cis-Retinal,-2.46,/root/miniproject/DiffDock/proteinPDB/B4.pdb,/root/miniproject/results_batch/B4_32_9-cis-Retinal/rank10_confidence-2.46.sdf,-5.38
+B4_17_nonanal,-2.54,/root/miniproject/DiffDock/proteinPDB/B4.pdb,/root/miniproject/results_batch/B4_17_nonanal/rank10_confidence-2.54.sdf,-5.37
+B4_18_decanal,-2.71,/root/miniproject/DiffDock/proteinPDB/B4.pdb,/root/miniproject/results_batch/B4_18_decanal/rank10_confidence-2.71.sdf,-5.37
+B7_55_Ethanol,-2.21,/root/miniproject/DiffDock/proteinPDB/B7.pdb,/root/miniproject/results_batch/B7_55_Ethanol/rank10_confidence-2.21.sdf,-5.35
+B1_2_acetaldehyde,-2.21,/root/miniproject/DiffDock/proteinPDB/B1.pdb,/root/miniproject/results_batch/B1_2_acetaldehyde/rank10_confidence-2.21.sdf,-5.35
+B7_1_formaldehyde,-1.39,/root/miniproject/DiffDock/proteinPDB/B7.pdb,/root/miniproject/results_batch/B7_1_formaldehyde/rank10_confidence-1.39.sdf,-5.33
+B4_2_acetaldehyde,-2.04,/root/miniproject/DiffDock/proteinPDB/B4.pdb,/root/miniproject/results_batch/B4_2_acetaldehyde/rank10_confidence-2.04.sdf,-5.33
+B6_47_methylmalonate semialdehyde,-2.73,/root/miniproject/DiffDock/proteinPDB/B6.pdb,/root/miniproject/results_batch/B6_47_methylmalonate semialdehyde/rank10_confidence-2.73.sdf,-5.32
+B2_12_prop-2-ynal,-2.25,/root/miniproject/DiffDock/proteinPDB/B2.pdb,/root/miniproject/results_batch/B2_12_prop-2-ynal/rank10_confidence-2.25.sdf,-5.29
+B4_1_formaldehyde,-2.13,/root/miniproject/DiffDock/proteinPDB/B4.pdb,/root/miniproject/results_batch/B4_1_formaldehyde/rank10_confidence-2.13.sdf,-5.29
+B3_47_methylmalonate semialdehyde,-2.62,/root/miniproject/DiffDock/proteinPDB/B3.pdb,/root/miniproject/results_batch/B3_47_methylmalonate semialdehyde/rank10_confidence-2.62.sdf,-5.26
+B6_53_Pyridoxal phosphate,-1.46,/root/miniproject/DiffDock/proteinPDB/B6.pdb,/root/miniproject/results_batch/B6_53_Pyridoxal phosphate/rank10_confidence-1.46.sdf,-5.2
+B2_53_Pyridoxal phosphate,-1.63,/root/miniproject/DiffDock/proteinPDB/B2.pdb,/root/miniproject/results_batch/B2_53_Pyridoxal phosphate/rank10_confidence-1.63.sdf,-5.07
+B3_53_Pyridoxal phosphate,-1.39,/root/miniproject/DiffDock/proteinPDB/B3.pdb,/root/miniproject/results_batch/B3_53_Pyridoxal phosphate/rank10_confidence-1.39.sdf,-5.06
